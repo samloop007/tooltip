@@ -28,3 +28,4 @@ export function getUserByEmail(email) {
 export function addPartnerUser({ id, username, email, password }) {
   users.push({ id, username, email, password, role: 'partner' });
 } 
+// hdsfhdsafksa
